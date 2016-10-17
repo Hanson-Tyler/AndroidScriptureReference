@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Scripture Reference</string>
+    <string name="title_activity_scriptureprinting">Scriptureprinting</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
